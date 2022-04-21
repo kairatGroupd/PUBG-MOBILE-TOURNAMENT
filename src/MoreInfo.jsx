@@ -1,6 +1,6 @@
 import React from 'react'
 import './MoreInfo.css'
-import RoomVid from "./images/pubgmobileroom.mp4"
+// import RoomVid from "./images/pubgmobileroom.mp4"
 import { motion } from "framer-motion"
 
 function MoreInfo() {
