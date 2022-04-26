@@ -91,9 +91,9 @@ function MoreInfo() {
                         <h2>Призы</h2>
                         <div className="prize-info">
                             <ul className="prize-list">
-                                <li>За каждый kill ➡ <strong><span>50 сом</span></strong> </li>
-                                {/* <li>2 место ➡ <strong><span>$50</span></strong> </li>
-                                <li>3 место ➡ <strong><span>$30</span></strong></li> */}
+                                <li>1 место ➡ <strong><span>5000 сом</span></strong> </li>
+                                <li>2 место ➡ <strong><span>3000 сом</span></strong> </li>
+                                <li>3 место ➡ <strong><span>2000 сом</span></strong></li>
                                 <li>Для игроков, выигравших призы, денежные призы будут отправлены выбранным способом оплаты в течение 48 часов.</li>
                             </ul>
                         </div>
