@@ -44,7 +44,7 @@ function HomeContainer() {
                         <img className="grid-2-logo" src={PubgLogo} alt=""/>
                         <div className="grid-2-info">
                             <h2 className="admission-price">стоимость взноса 200 сом</h2>
-                            <h2 className="date">Дата 27 апреля 2022</h2>
+                            <h2 className="date">Дата 28 апреля 2022</h2>
                             {/* <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfoQ9ZVqXhWAW-41wrkZUEAz14506XtkYDTuTDYxDzbQN1Kg/viewform?usp=sf_link"><button className="register-btn-2">more info</button></a> */}
                     </div>
                     </div>
